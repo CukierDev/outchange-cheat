@@ -7,7 +7,8 @@ So when you are the seeker you can see who is who.
 # Instalation
 Just download this repository and<br/>
 copy everything to [where is JAN located]/Just Act Natural/JustActNatural_Data/Managed<br/>
-and that's it!
+and that's it!<br/>
+please note that this cheat is created for version 1.2.1
   
 ## Enjoy :)
 
