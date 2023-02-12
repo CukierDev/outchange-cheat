@@ -1,7 +1,5 @@
 # Outchange Cheat
 NPC outfit change cheat for Just Act Natural
-<br/>
-<br/>
 # What is this black magic?
 This cheat(mod) makes all npcs look the same<br/>
 but it doesn't change the player outfit.<br/>
