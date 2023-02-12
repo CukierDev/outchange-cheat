@@ -9,6 +9,6 @@ Just download this repository and<br/>
 copy everything to <where is JAN located>/Just Act Natural/JustActNatural_Data/Managed<br/>
 and that's it!
   
-##Enjoy :)
+## Enjoy :)
 
 don't tell lee about this
