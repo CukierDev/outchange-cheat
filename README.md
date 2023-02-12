@@ -6,7 +6,7 @@ but it doesn't change the player outfit.<br/>
 So when you are the seeker you can see who is who.
 # Instalation
 Just download this repository and<br/>
-copy everything to <where is JAN located>/Just Act Natural/JustActNatural_Data/Managed<br/>
+copy everything to [where is JAN located]/Just Act Natural/JustActNatural_Data/Managed<br/>
 and that's it!
   
 ## Enjoy :)
