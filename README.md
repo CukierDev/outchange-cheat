@@ -1,6 +1,6 @@
 # Outchange Cheat
 NPC outfit change cheat for Just Act Natural<br/>
-outchange is now compatible with v1.3.0!
+outchange is now compatible with v1.3.1!
 # What is this black magic?
 This cheat(mod) makes all npcs look the same<br/>
 but it doesn't change the player outfit.<br/>
